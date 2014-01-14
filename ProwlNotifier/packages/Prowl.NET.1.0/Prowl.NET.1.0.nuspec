@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Prowl.NET</id>
+    <version>1.0</version>
+    <title>Prowl.NET</title>
+    <authors>Casey Watson</authors>
+    <owners>Casey Watson</owners>
+    <licenseUrl>http://prowldotnet.codeplex.com/license</licenseUrl>
+    <projectUrl>http://prowldotnet.codeplex.com/</projectUrl>
+    <iconUrl>https://nugetgallery.blob.core.windows.net/icons/Prowl.NET.1.0.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This library allows you to access the Prowl API from within a .NET application. The Prowl service allows you to push notifications to the iPhone or iPod Touch. You can learn more about this service at http://prowl.weks.net/.</description>
+    <summary>This library allows you to access the Prowl API from within a .NET application. The Prowl service allows you to push notifications to the iPhone or iPod Touch. You can learn more about this service at http://prowl.weks.net/.</summary>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <tags>Prowl Push Notification API Library</tags>
+  </metadata>
+</package>
